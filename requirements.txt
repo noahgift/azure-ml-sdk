@@ -1,0 +1,2 @@
+ipython
+azureml-sdk
